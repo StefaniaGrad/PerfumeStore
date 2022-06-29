@@ -1,0 +1,12 @@
+C:\Users\cezar.buna\Desktop\PerfumeStore\Project\PerfumeStore\PerfumeStore.Domain\bin\Debug\net6.0\PerfumeStore.Domain.deps.json
+C:\Users\cezar.buna\Desktop\PerfumeStore\Project\PerfumeStore\PerfumeStore.Domain\bin\Debug\net6.0\PerfumeStore.Domain.dll
+C:\Users\cezar.buna\Desktop\PerfumeStore\Project\PerfumeStore\PerfumeStore.Domain\bin\Debug\net6.0\PerfumeStore.Domain.pdb
+C:\Users\cezar.buna\Desktop\PerfumeStore\Project\PerfumeStore\PerfumeStore.Domain\obj\Debug\net6.0\PerfumeStore.Domain.csproj.AssemblyReference.cache
+C:\Users\cezar.buna\Desktop\PerfumeStore\Project\PerfumeStore\PerfumeStore.Domain\obj\Debug\net6.0\PerfumeStore.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cezar.buna\Desktop\PerfumeStore\Project\PerfumeStore\PerfumeStore.Domain\obj\Debug\net6.0\PerfumeStore.Domain.AssemblyInfoInputs.cache
+C:\Users\cezar.buna\Desktop\PerfumeStore\Project\PerfumeStore\PerfumeStore.Domain\obj\Debug\net6.0\PerfumeStore.Domain.AssemblyInfo.cs
+C:\Users\cezar.buna\Desktop\PerfumeStore\Project\PerfumeStore\PerfumeStore.Domain\obj\Debug\net6.0\PerfumeStore.Domain.csproj.CoreCompileInputs.cache
+C:\Users\cezar.buna\Desktop\PerfumeStore\Project\PerfumeStore\PerfumeStore.Domain\obj\Debug\net6.0\PerfumeStore.Domain.dll
+C:\Users\cezar.buna\Desktop\PerfumeStore\Project\PerfumeStore\PerfumeStore.Domain\obj\Debug\net6.0\refint\PerfumeStore.Domain.dll
+C:\Users\cezar.buna\Desktop\PerfumeStore\Project\PerfumeStore\PerfumeStore.Domain\obj\Debug\net6.0\PerfumeStore.Domain.pdb
+C:\Users\cezar.buna\Desktop\PerfumeStore\Project\PerfumeStore\PerfumeStore.Domain\obj\Debug\net6.0\ref\PerfumeStore.Domain.dll

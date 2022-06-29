@@ -6,7 +6,10 @@ using System.Threading.Tasks;
 
 namespace PerfumeStore.Domain.Models
 {
-    internal class Address
+    public class Address : BaseEntity
     {
+        public string Street { get; set; }
+        public int Number { get; set; }
+        public string ZipCode { get; set; }
     }
 }

@@ -6,7 +6,12 @@ using System.Threading.Tasks;
 
 namespace PerfumeStore.Domain.Models
 {
-    internal class OptionValue
+    public class OptionValue : BaseEntity
     {
+        public string Name { get; set; }
+        public Guid OptionTypeId { get; set; }
+        public OptionType OptionType { get; set; }
+        public ICollection<Variant> Variants { get; set; }
+
     }
 }

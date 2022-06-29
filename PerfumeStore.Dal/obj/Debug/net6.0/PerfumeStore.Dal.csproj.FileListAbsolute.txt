@@ -1,0 +1,17 @@
+C:\Users\cezar.buna\Desktop\PerfumeStore\Project\PerfumeStore\PerfumeStore.Dal\bin\Debug\net6.0\PerfumeStore.Dal.deps.json
+C:\Users\cezar.buna\Desktop\PerfumeStore\Project\PerfumeStore\PerfumeStore.Dal\bin\Debug\net6.0\PerfumeStore.Dal.runtimeconfig.json
+C:\Users\cezar.buna\Desktop\PerfumeStore\Project\PerfumeStore\PerfumeStore.Dal\bin\Debug\net6.0\PerfumeStore.Dal.dll
+C:\Users\cezar.buna\Desktop\PerfumeStore\Project\PerfumeStore\PerfumeStore.Dal\bin\Debug\net6.0\PerfumeStore.Dal.pdb
+C:\Users\cezar.buna\Desktop\PerfumeStore\Project\PerfumeStore\PerfumeStore.Dal\bin\Debug\net6.0\PerfumeStore.Domain.dll
+C:\Users\cezar.buna\Desktop\PerfumeStore\Project\PerfumeStore\PerfumeStore.Dal\bin\Debug\net6.0\PerfumeStore.Domain.pdb
+C:\Users\cezar.buna\Desktop\PerfumeStore\Project\PerfumeStore\PerfumeStore.Dal\obj\Debug\net6.0\PerfumeStore.Dal.csproj.AssemblyReference.cache
+C:\Users\cezar.buna\Desktop\PerfumeStore\Project\PerfumeStore\PerfumeStore.Dal\obj\Debug\net6.0\PerfumeStore.Dal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cezar.buna\Desktop\PerfumeStore\Project\PerfumeStore\PerfumeStore.Dal\obj\Debug\net6.0\PerfumeStore.Dal.AssemblyInfoInputs.cache
+C:\Users\cezar.buna\Desktop\PerfumeStore\Project\PerfumeStore\PerfumeStore.Dal\obj\Debug\net6.0\PerfumeStore.Dal.AssemblyInfo.cs
+C:\Users\cezar.buna\Desktop\PerfumeStore\Project\PerfumeStore\PerfumeStore.Dal\obj\Debug\net6.0\PerfumeStore.Dal.csproj.CoreCompileInputs.cache
+C:\Users\cezar.buna\Desktop\PerfumeStore\Project\PerfumeStore\PerfumeStore.Dal\obj\Debug\net6.0\PerfumeStore.Dal.csproj.CopyComplete
+C:\Users\cezar.buna\Desktop\PerfumeStore\Project\PerfumeStore\PerfumeStore.Dal\obj\Debug\net6.0\PerfumeStore.Dal.dll
+C:\Users\cezar.buna\Desktop\PerfumeStore\Project\PerfumeStore\PerfumeStore.Dal\obj\Debug\net6.0\refint\PerfumeStore.Dal.dll
+C:\Users\cezar.buna\Desktop\PerfumeStore\Project\PerfumeStore\PerfumeStore.Dal\obj\Debug\net6.0\PerfumeStore.Dal.pdb
+C:\Users\cezar.buna\Desktop\PerfumeStore\Project\PerfumeStore\PerfumeStore.Dal\obj\Debug\net6.0\PerfumeStore.Dal.genruntimeconfig.cache
+C:\Users\cezar.buna\Desktop\PerfumeStore\Project\PerfumeStore\PerfumeStore.Dal\obj\Debug\net6.0\ref\PerfumeStore.Dal.dll
