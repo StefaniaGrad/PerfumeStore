@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\cezar.buna\\Desktop\\PerfumeStore\\PerfumeStore.Application\\PerfumeStore.Application.csproj",
+      "projectUniqueName": "C:\\Users\\cezar.buna\\Desktop\\PerfumeStore\\Project\\PerfumeStore\\PerfumeStore.Application\\PerfumeStore.Application.csproj",
       "projectName": "PerfumeStore.Application",
-      "projectPath": "C:\\Users\\cezar.buna\\Desktop\\PerfumeStore\\PerfumeStore.Application\\PerfumeStore.Application.csproj",
+      "projectPath": "C:\\Users\\cezar.buna\\Desktop\\PerfumeStore\\Project\\PerfumeStore\\PerfumeStore.Application\\PerfumeStore.Application.csproj",
       "packagesPath": "C:\\Users\\cezar.buna\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\cezar.buna\\Desktop\\PerfumeStore\\PerfumeStore.Application\\obj\\",
+      "outputPath": "C:\\Users\\cezar.buna\\Desktop\\PerfumeStore\\Project\\PerfumeStore\\PerfumeStore.Application\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\cezar.buna\\AppData\\Roaming\\NuGet\\NuGet.Config",

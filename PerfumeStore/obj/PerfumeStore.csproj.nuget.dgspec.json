@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\cezar.buna\\Desktop\\PerfumeStore\\PerfumeStore\\PerfumeStore.csproj": {}
+    "C:\\Users\\cezar.buna\\Desktop\\PerfumeStore\\Project\\PerfumeStore\\PerfumeStore\\PerfumeStore.csproj": {}
   },
   "projects": {
-    "C:\\Users\\cezar.buna\\Desktop\\PerfumeStore\\PerfumeStore\\PerfumeStore.csproj": {
+    "C:\\Users\\cezar.buna\\Desktop\\PerfumeStore\\Project\\PerfumeStore\\PerfumeStore\\PerfumeStore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\cezar.buna\\Desktop\\PerfumeStore\\PerfumeStore\\PerfumeStore.csproj",
+        "projectUniqueName": "C:\\Users\\cezar.buna\\Desktop\\PerfumeStore\\Project\\PerfumeStore\\PerfumeStore\\PerfumeStore.csproj",
         "projectName": "PerfumeStore",
-        "projectPath": "C:\\Users\\cezar.buna\\Desktop\\PerfumeStore\\PerfumeStore\\PerfumeStore.csproj",
+        "projectPath": "C:\\Users\\cezar.buna\\Desktop\\PerfumeStore\\Project\\PerfumeStore\\PerfumeStore\\PerfumeStore.csproj",
         "packagesPath": "C:\\Users\\cezar.buna\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\cezar.buna\\Desktop\\PerfumeStore\\PerfumeStore\\obj\\",
+        "outputPath": "C:\\Users\\cezar.buna\\Desktop\\PerfumeStore\\Project\\PerfumeStore\\PerfumeStore\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\cezar.buna\\AppData\\Roaming\\NuGet\\NuGet.Config",
