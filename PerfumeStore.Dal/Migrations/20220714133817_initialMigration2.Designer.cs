@@ -3,6 +3,7 @@ using System;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 using PerfumeStore.Dal;
 
@@ -11,9 +12,10 @@ using PerfumeStore.Dal;
 namespace PerfumeStore.Dal.Migrations
 {
     [DbContext(typeof(PerfumeStoreContext))]
-    partial class PerfumeStoreContextModelSnapshot : ModelSnapshot
+    [Migration("20220714133817_initialMigration2")]
+    partial class initialMigration2
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
@@ -127,21 +129,6 @@ namespace PerfumeStore.Dal.Migrations
                     b.HasIndex("OptionTypeId");
 
                     b.ToTable("OptionValues");
-                });
-
-            modelBuilder.Entity("PerfumeStore.Domain.Models.OptionValueVariant", b =>
-                {
-                    b.Property<Guid>("OptionValueId")
-                        .HasColumnType("uniqueidentifier");
-
-                    b.Property<Guid>("VariantId")
-                        .HasColumnType("uniqueidentifier");
-
-                    b.HasKey("OptionValueId", "VariantId");
-
-                    b.HasIndex("VariantId");
-
-                    b.ToTable("OptionValueVariant");
                 });
 
             modelBuilder.Entity("PerfumeStore.Domain.Models.Product", b =>
@@ -267,25 +254,6 @@ namespace PerfumeStore.Dal.Migrations
                     b.Navigation("OptionType");
                 });
 
-            modelBuilder.Entity("PerfumeStore.Domain.Models.OptionValueVariant", b =>
-                {
-                    b.HasOne("PerfumeStore.Domain.Models.Variant", "Variant")
-                        .WithMany("OptionValues")
-                        .HasForeignKey("OptionValueId")
-                        .OnDelete(DeleteBehavior.Restrict)
-                        .IsRequired();
-
-                    b.HasOne("PerfumeStore.Domain.Models.OptionValue", "OptionValue")
-                        .WithMany("Variants")
-                        .HasForeignKey("VariantId")
-                        .OnDelete(DeleteBehavior.Restrict)
-                        .IsRequired();
-
-                    b.Navigation("OptionValue");
-
-                    b.Navigation("Variant");
-                });
-
             modelBuilder.Entity("PerfumeStore.Domain.Models.Variant", b =>
                 {
                     b.HasOne("PerfumeStore.Domain.Models.Product", "Product")
@@ -295,16 +263,6 @@ namespace PerfumeStore.Dal.Migrations
                         .IsRequired();
 
                     b.Navigation("Product");
-                });
-
-            modelBuilder.Entity("PerfumeStore.Domain.Models.OptionValue", b =>
-                {
-                    b.Navigation("Variants");
-                });
-
-            modelBuilder.Entity("PerfumeStore.Domain.Models.Variant", b =>
-                {
-                    b.Navigation("OptionValues");
                 });
 #pragma warning restore 612, 618
         }
