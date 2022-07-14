@@ -1914,19 +1914,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\cezar.buna\\.nuget\\packages\\": {}
+    "C:\\Users\\win 10\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\cezar.buna\\Desktop\\PerfumeStore\\Project\\PerfumeStore\\PerfumeStore.Dal\\PerfumeStore.Dal.csproj",
+      "projectUniqueName": "C:\\Users\\win 10\\Desktop\\PerfumeStore\\PerfumeStore\\PerfumeStore.Dal\\PerfumeStore.Dal.csproj",
       "projectName": "PerfumeStore.Dal",
-      "projectPath": "C:\\Users\\cezar.buna\\Desktop\\PerfumeStore\\Project\\PerfumeStore\\PerfumeStore.Dal\\PerfumeStore.Dal.csproj",
-      "packagesPath": "C:\\Users\\cezar.buna\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\cezar.buna\\Desktop\\PerfumeStore\\Project\\PerfumeStore\\PerfumeStore.Dal\\obj\\",
+      "projectPath": "C:\\Users\\win 10\\Desktop\\PerfumeStore\\PerfumeStore\\PerfumeStore.Dal\\PerfumeStore.Dal.csproj",
+      "packagesPath": "C:\\Users\\win 10\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\win 10\\Desktop\\PerfumeStore\\PerfumeStore\\PerfumeStore.Dal\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\cezar.buna\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\win 10\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -1940,8 +1945,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\cezar.buna\\Desktop\\PerfumeStore\\Project\\PerfumeStore\\PerfumeStore.Domain\\PerfumeStore.Domain.csproj": {
-              "projectPath": "C:\\Users\\cezar.buna\\Desktop\\PerfumeStore\\Project\\PerfumeStore\\PerfumeStore.Domain\\PerfumeStore.Domain.csproj"
+            "C:\\Users\\win 10\\Desktop\\PerfumeStore\\PerfumeStore\\PerfumeStore.Domain\\PerfumeStore.Domain.csproj": {
+              "projectPath": "C:\\Users\\win 10\\Desktop\\PerfumeStore\\PerfumeStore\\PerfumeStore.Domain\\PerfumeStore.Domain.csproj"
             }
           }
         }
@@ -1996,7 +2001,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
       }
     }
   }
