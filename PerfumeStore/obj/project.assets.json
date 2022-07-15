@@ -769,6 +769,10 @@
       "PerfumeStore.Application/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "MediatR": "10.0.1",
+          "MediatR.Extensions.Microsoft.DependencyInjection": "10.0.1"
+        },
         "compile": {
           "bin/placeholder/PerfumeStore.Application.dll": {}
         },

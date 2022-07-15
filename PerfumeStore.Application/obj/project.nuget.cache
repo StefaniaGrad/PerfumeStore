@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "aT0hVpcE8beaWhw+nhdeyHYfysBBxSNl32tz1uQkDF1H7tX/R1onhKSeTF0YOmEgfIiEscVj6ujUI9NgPn5Odw==",
+  "dgSpecHash": "wqZ5nKSrgRARbjRDV0UTeec2E9bYC8DKihXp5ZI9raMv6OJvlO618UWXDefZw3Oze1IDkzIMXMKvYEFOlv7QZQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\win 10\\Desktop\\PerfumeStore\\PerfumeStore\\PerfumeStore.Application\\PerfumeStore.Application.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\win 10\\.nuget\\packages\\mediatr\\10.0.1\\mediatr.10.0.1.nupkg.sha512",
+    "C:\\Users\\win 10\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512",
+    "C:\\Users\\win 10\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\10.0.1\\mediatr.extensions.microsoft.dependencyinjection.10.0.1.nupkg.sha512",
+    "C:\\Users\\win 10\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512"
+  ],
   "logs": []
 }
