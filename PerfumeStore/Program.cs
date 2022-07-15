@@ -1,3 +1,4 @@
+using MediatR;
 using PerfumeStore.Dal;
 using PerfumeStore.Dal.Repositories;
 using PerfumeStore.Domain.IRepositories;
@@ -26,7 +27,7 @@ builder.Services.AddScoped<IProductRepository, ProductRepository>();
 builder.Services.AddScoped<IUserRepository, UserRepository>();
 builder.Services.AddScoped<IVariantRepository, VariantRepository>();
 
-
+builder.Services.AddMediatR(typeof(Program));
 builder.Services.AddAutoMapper(typeof(Program));
 
 builder.Services.AddDbContext<PerfumeStoreContext>();
